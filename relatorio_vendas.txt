@@ -1,0 +1,15 @@
+Relatório de Vendas
+====================
+
+Produto: Camisa
+  Quantidade Vendida: 14
+  Total arracadado: R$ 700.00
+
+Produto: CalÃ§a
+  Quantidade Vendida: 8
+  Total arracadado: R$ 640.00
+
+Produto: Sapato
+  Quantidade Vendida: 2
+  Total arracadado: R$ 400.00
+
